@@ -1,2 +1,2 @@
-# IWSC_AdminPortal
+# AdminPortal
 IWSC admin portal project for the grapido app
